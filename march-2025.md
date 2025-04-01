@@ -10,7 +10,7 @@
 | 💸 Custos Totais                   | 421,195 sats   | 639,244 sats | **+51.70%** 🔼     |
 | 📈 Lucro Operacional               | 134,325 sats   | 128,270 sats | **-4.51%** 🔽      |
 | 🔁 Custos com Rebalanceamento      | 419,934 sats   | 634,777 sats | **+51.13%** 🔼     |
-| 🧾 Volume Roteado                  | -              | 182,794,586 sats | -           |
+| 🧾 Volume Roteado                  | -              | 1,828,496,183 sats | -           |
 | 🔄 Total de Pagamentos Roteados   | -              | 23,123      | -                 |
 
 ---
@@ -68,7 +68,7 @@
 
 | Métrica                        | Valor |
 |-------------------------------|-------|
-| 📦 Volume Total Roteado       | 182.79M sats |
+| 📦 Volume Total Roteado       | 1.82B sats |
 | 🔄 Total de Pagamentos        | 23,123 |
 | ⚡ Receita média por pagamento| ~33 sats |
 | 💵 Custo médio por pagamento  | ~28 sats |
